@@ -3,14 +3,13 @@ package lesson06_02;
 public class BonusTask {
 
     int primitive = 10;
-    String string = new String("Это строка");
     int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
 
-    public int passByPrimitive(int a) {
+    public void passByPrimitive(int a) {
         a = 25;
         System.out.println("Значение внутри метода: " + a);
-        return a;
+
     }
 
     public void passByObject(int[] array) {
