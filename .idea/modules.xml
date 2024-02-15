@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/maxima-hw/maxima-hw.iml" filepath="$PROJECT_DIR$/maxima-hw/maxima-hw.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mx-school-homework.iml" filepath="$PROJECT_DIR$/.idea/mx-school-homework.iml" />
     </modules>
   </component>
 </project>
