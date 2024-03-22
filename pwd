@@ -1,0 +1,71 @@
+[33mb9dff65[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/hw_10-03[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: checkout: moving from master to feature/hw_10-03
+[33mb9dff65[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/hw_10-03[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33mfa80e68[m HEAD@{2}: checkout: moving from feature/hw_10-03 to master
+[33m5789a09[m HEAD@{3}: pull --rebase=false origin master --verbose --progress: Merge made by the 'ort' strategy.
+[33me1e3efd[m HEAD@{4}: commit: Homework 10-03 is done
+[33m239a7ab[m HEAD@{5}: checkout: moving from feature/hw_05-03 to feature/hw_10-03
+[33m239a7ab[m HEAD@{6}: commit: Homework 05-03 is done
+[33m774d118[m HEAD@{7}: Branch: renamed refs/heads/feature/hw_01-05 to refs/heads/feature/hw_05-03
+[33m774d118[m HEAD@{9}: checkout: moving from feature/hw_01-03 to feature/hw_01-05
+[33m774d118[m HEAD@{10}: commit: Homework 01-03 fixed task_2
+[33m533f1ae[m HEAD@{11}: commit: Homework 01-03 is done
+[33mfa80e68[m HEAD@{12}: checkout: moving from master to feature/hw_01-03
+[33mfa80e68[m HEAD@{13}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33maf6cc77[m HEAD@{14}: checkout: moving from feature/hw_21-02 to master
+[33mfa80e68[m HEAD@{15}: pull --rebase=false origin master --verbose --progress: Fast-forward
+[33m8718df8[m HEAD@{16}: commit: Homework 21-02 is done
+[33maf6cc77[m HEAD@{17}: checkout: moving from master to feature/hw_21-02
+[33maf6cc77[m HEAD@{18}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33m8db165e[m HEAD@{19}: checkout: moving from feature/hw_17-02 to master
+[33m91fa805[m HEAD@{20}: commit: Homework 17-02 is done.
+[33m8db165e[m HEAD@{21}: checkout: moving from master to feature/hw_17-02
+[33m8db165e[m HEAD@{22}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33me1c81f9[m HEAD@{23}: checkout: moving from feature/hw_17-02 to master
+[33me1c81f9[m HEAD@{24}: checkout: moving from master to feature/hw_17-02
+[33me1c81f9[m HEAD@{25}: checkout: moving from feature/hw_17-02 to master
+[33me1c81f9[m HEAD@{26}: checkout: moving from master to feature/hw_17-02
+[33me1c81f9[m HEAD@{27}: checkout: moving from feature/hw_13-02 to master
+[33m8db165e[m HEAD@{28}: pull --rebase=false origin master --verbose --progress: Fast-forward
+[33m2eb8ca7[m HEAD@{29}: commit: Homework 13-02 part2 is done
+[33m4d3d6e2[m HEAD@{30}: commit: Homework 13-02 part_1 is done
+[33me1c81f9[m HEAD@{31}: checkout: moving from master to feature/hw_13-02
+[33me1c81f9[m HEAD@{32}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33mb057fb5[m HEAD@{33}: checkout: moving from feature/hw_10-02 to master
+[33me1c81f9[m HEAD@{34}: pull --rebase=false origin master --verbose --progress: Fast-forward
+[33m4a01dc6[m HEAD@{35}: commit: homework 10-02 is done
+[33mb057fb5[m HEAD@{36}: checkout: moving from master to feature/hw_10-02
+[33mb057fb5[m HEAD@{37}: pull --rebase=false origin --prune --verbose --progress: Merge made by the 'ort' strategy.
+[33m2f7c477[m HEAD@{38}: commit: added Maven to project
+[33md7c2d8f[m HEAD@{39}: checkout: moving from feature/hw_06-02 to master
+[33me39ccad[m HEAD@{40}: reset: moving to HEAD
+[33me39ccad[m HEAD@{41}: commit: homework 06_02 is done v.2
+[33m0e8caf1[m HEAD@{42}: commit: homework 06_02 is done
+[33md7c2d8f[m HEAD@{43}: checkout: moving from feature/hw_06-02 to feature/hw_06-02
+[33md7c2d8f[m HEAD@{44}: checkout: moving from feature/hw_02-02 to feature/hw_06-02
+[33m295a55d[m HEAD@{45}: reset: moving to HEAD
+[33m295a55d[m HEAD@{46}: checkout: moving from feature/hw_30-01 to feature/hw_02-02
+[33m48b2b5f[m HEAD@{47}: checkout: moving from master to feature/hw_30-01
+[33md7c2d8f[m HEAD@{48}: checkout: moving from feature/hw_30-01 to master
+[33m48b2b5f[m HEAD@{49}: checkout: moving from master to feature/hw_30-01
+[33md7c2d8f[m HEAD@{50}: checkout: moving from feature/hw_02-02 to master
+[33m295a55d[m HEAD@{51}: checkout: moving from feature/hw_30-01 to feature/hw_02-02
+[33m48b2b5f[m HEAD@{52}: checkout: moving from feature/hw_02-02 to feature/hw_30-01
+[33m295a55d[m HEAD@{53}: checkout: moving from feature/hw_30-01 to feature/hw_02-02
+[33m48b2b5f[m HEAD@{54}: checkout: moving from feature/hw_02-02 to feature/hw_30-01
+[33m295a55d[m HEAD@{55}: checkout: moving from feature/hw_06-02 to feature/hw_02-02
+[33md7c2d8f[m HEAD@{56}: checkout: moving from master to feature/hw_06-02
+[33md7c2d8f[m HEAD@{57}: checkout: moving from feature/hw_02-02 to master
+[33m295a55d[m HEAD@{58}: checkout: moving from feature/hw_02-02 to feature/hw_02-02
+[33m295a55d[m HEAD@{59}: commit: homework 02_02 is done
+[33md7c2d8f[m HEAD@{60}: checkout: moving from master to feature/hw_02-02
+[33md7c2d8f[m HEAD@{61}: pull --rebase=false origin --prune --verbose --progress: Fast-forward
+[33m5d4e0e0[m HEAD@{62}: checkout: moving from feature/hw_30-01 to master
+[33m48b2b5f[m HEAD@{63}: commit: homework is done
+[33m5d4e0e0[m HEAD@{64}: checkout: moving from master to feature/hw_30-01
+[33m5d4e0e0[m HEAD@{65}: checkout: moving from feature/hw_30-01 to master
+[33m5d4e0e0[m HEAD@{66}: checkout: moving from feature/hw_30-01 to feature/hw_30-01
+[33m5d4e0e0[m HEAD@{67}: checkout: moving from master to feature/hw_30-01
+[33m5d4e0e0[m HEAD@{68}: checkout: moving from feature/hw_30-01 to master
+[33m5d4e0e0[m HEAD@{69}: checkout: moving from master to feature/hw_30-01
+[33m5d4e0e0[m HEAD@{70}: commit: Initial commit
+[33m6e26af1[m HEAD@{71}: clone: from github.com:DassemUltor/mx-school-homework.git
