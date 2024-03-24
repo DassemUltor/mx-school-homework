@@ -10,21 +10,17 @@ public class Solution {
         HashMap<String, Integer> frequence = new HashMap<>();
         Scanner console = new Scanner(System.in);
         String text = console.nextLine();     // test: hello world hello hello world java
-        int value = 1;
+
 
         String[] arrayText = text.split("\\s+");
 
-        for (int i = 0; i < arrayText.length; i++) {
-            if (frequence.containsKey(arrayText[i])) {
-                continue;
+
+        for (String s : arrayText) {
+            if (frequence.containsKey(s)) {
+                frequence.put(s, frequence.get(s) + 1);
+            } else {
+                frequence.put(s, 1);
             }
-            for (int j = i + 1; j < arrayText.length; j++) {
-                if (arrayText[i].equalsIgnoreCase(arrayText[j])) {
-                    value++;
-                }
-            }
-            frequence.put(arrayText[i], value);
-            value = 1;
         }
 
         System.out.println(frequence);
